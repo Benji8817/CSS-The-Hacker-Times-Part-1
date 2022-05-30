@@ -8,3 +8,19 @@
   background: white;
   box-shadow: 4px 4px 8px #ddd;
 }
+
+body {
+  background-color: #eee;
+}
+nav {
+
+}
+nav ul {
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+header h1 {
+  text-align: center;
+}
