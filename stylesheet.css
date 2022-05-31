@@ -16,6 +16,7 @@
 }
 h1{
   font-family: Abril Fatface;
+  color: blue;
   text-align: center;
 }
 h2 {
@@ -47,11 +48,16 @@ nav li {
   padding: 1 1.5em;
 }
 nav a {
+  font-family: Source Sans Pro;
   font-size: .96em;
   color: #777;
 }
 
 /*front page*/
+main p {
+  font-family: Source Sans Pro;
+  text-align: center;
+}
 main img {
   width: 100%;
 }
@@ -65,6 +71,9 @@ main img {
   display: inline-block;
   width: 35%;
   margin: 0 1em;
+}
+.more-articles p {
+  font-family: Source Sans Pro;
 }
 .more-articles img {
   width: 100%;
